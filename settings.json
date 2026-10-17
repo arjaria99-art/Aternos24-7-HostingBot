@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mcnetmine.aternos.me",
-    "port": 25680,
+    "port": 25860,
     "version": "1.21.1",
     "try-creative": false
   },
