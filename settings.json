@@ -1,13 +1,13 @@
 {
   "name": "WELCOME TO SERVER",
   "bot-account": {
-    "username": "",
+    "username": "MCNETMINE_KEEPER",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "mcnetmine.bedrock.minekeep.gg",
-    "port": 19132,
+    "ip": "mcnetmine.aternos.me",
+    "port": 25680,
     "version": "",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "YourAuthPassword"
     },
     "anti-afk": {
